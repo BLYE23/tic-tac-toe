@@ -1,1 +1,1 @@
-# tic-tac-toe-game-java-CSC171
+# tic-tac-toe
